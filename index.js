@@ -2,5 +2,4 @@
 const currentUser=
 'Maya Young';
 const welcomeMessage=
-'Welcome to Klossybook, ';
-const welcomeMessage =currentUser;
+'Welcome to Klossybook, currentUser';
