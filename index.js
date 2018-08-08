@@ -1,5 +1,4 @@
 // Write your code in this file!
 const currentUser=
 'Maya Young';
-const welcomeMessage=
-currentUser;
+const welcomeMessage='Welcome to Klossybook, currentUser';
